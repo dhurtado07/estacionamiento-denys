@@ -1,0 +1,44 @@
+{
+  "areas": [
+    {
+      "id": 1,
+      "name": "producción"
+    },
+    {
+      "id": 2,
+      "name": "finanzas"
+    },
+    {
+      "id": 3,
+      "name": "contabilidad"
+    }
+  ],
+  "types": [
+    {
+      "id": 1,
+      "name": "automóvil"
+    },
+    {
+      "id": 2,
+      "name": "moto"
+    }
+  ],
+  "employees": [
+    {
+      "nombre": "Carlos Roque",
+      "area": 2,
+      "tipoVehiculo": 1,
+      "numeroPlaca": "44587",
+      "colorVehiculo": "Rojo",
+      "id": 2
+    },
+    {
+      "nombre": "Pepe",
+      "area": 2,
+      "tipoVehiculo": 2,
+      "numeroPlaca": "4787",
+      "colorVehiculo": "Verde",
+      "id": 3
+    }
+  ]
+}
